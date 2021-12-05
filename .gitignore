@@ -1,0 +1,4 @@
+*.vim
+input.txt
+output.txt
+*.out
